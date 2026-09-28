@@ -1,148 +1,183 @@
 <div align="center">
 
-# ⚡ SRIVANTH S
+# 🎮 SRIVANTH S
 
-### **BUILDING • TESTING • BREAKING • IMPROVING**
+### ⚡ **PLAYER 01 • JAVA DEVELOPER • QA ENGINEER • AI/ML BUILDER**
 
-**Java Backend Developer · QA Engineer · AI/ML Builder**
+`JAVA` `SPRING BOOT` `DSA` `API TESTING` `AI/ML`
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivanth-sekar12)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srivanthsekar11@gmail.com)
+> **BUILD → TEST → DEBUG → LEVEL UP**
+
+[![LinkedIn](https://img.shields.io/badge/🎯_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivanth-sekar12)
+[![Email](https://img.shields.io/badge/📩_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivanthsekar11@gmail.com)
 
 </div>
 
 ---
 
-## 🧠 What I Build
-
-> I like working where **development meets quality** — building features, testing them from a user's perspective, and understanding what happens behind the API.
-
-| 🧩 BUILD | 🧪 BREAK | 🤖 EXPLORE |
-|:---:|:---:|:---:|
-| Java · Spring Boot · REST | Manual · API · Regression | OpenCV · MediaPipe · LLM |
-| Backend Systems | Postman · UAT | Computer Vision |
-
----
-
-## 🛠️ My Toolbox
-
-**CORE**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**BACKEND / WEB**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111827?style=flat-square)
-
-**DATA / DEV TOOLS**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI / COMPUTER VISION**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-000000?style=flat-square&logo=groq&logoColor=white)
-
----
-
-# 🚀 Things I've Built
-
-### ⚔️ CodeArena
-**A competitive coding platform with an AI layer.**
-
-`JWT Auth` · `Live Judge` · `AI Hints` · `Leaderboards` · `Analytics`
-
-Built with Python, MySQL, JavaScript, REST APIs and Groq LLM.
-
-**→ [Explore CodeArena](https://github.com/srivanth1210/CodeArena)**
-
----
-
-### 🤖 ML Brightness Controller
-**Control screen brightness with hand gestures.**
-
-`OpenCV` · `MediaPipe` · `Python`
-
-A real-time computer-vision project that turns hand gestures into system actions.
-
-**→ [Explore Project](https://github.com/srivanth1210/ML-brightness-controller)**
-
----
-
-### 🧑‍💻 Coding Agent RL Evaluation Platform
-**Exploring how coding agents can be evaluated.**
-
-A project around coding-agent evaluation and reinforcement-learning workflows.
-
-**→ [Explore Project](https://github.com/srivanth1210/Coding-Agent-RL-Evaluation-Platform)**
-
----
-
-## 🧪 How I Think About Quality
-
-```
-USER
-  ↓
-FEATURE
-  ↓
-  ├── Does it work?        → Functional Testing
-  ├── Does the API work?   → API Testing
-  ├── Did the change break?→ Regression Testing
-  ├── Is it usable?        → User Perspective
-  └── Can it survive?      → Edge Cases
-```
-
-**QA isn't just finding bugs.  
-It's understanding how the software can fail before the user does.**
-
----
-
-## 📍 Currently Building My Next Level
+## 🕹️ PLAYER PROFILE
 
 ```text
-Java
-  ├── DSA
-  ├── Collections
-  └── Problem Solving
+╔══════════════════════════════════════════════╗
+║                 PLAYER 01                    ║
+╠══════════════════════════════════════════════╣
+║ CLASS        : JAVA DEVELOPER                ║
+║ SECONDARY    : QA ENGINEER                   ║
+║ SPECIAL      : AI / COMPUTER VISION          ║
+║ WEAPONS      : Java • Spring Boot • REST     ║
+║              : DSA • SQL • Git               ║
+║              : Postman • OpenCV              ║
+║                                                ║
+║ CURRENT QUEST: LEVEL UP BACKEND SKILLS       ║
+╚══════════════════════════════════════════════╝
+```
 
-Spring Boot
-  ├── REST APIs
-  ├── Security
-  └── Backend Architecture
+## 🎯 CURRENT QUEST
+
+> **Objective:** Become a stronger backend developer while building software with a quality-first mindset.
+
+- ⚔️ Mastering **Java + DSA**
+- 🛡️ Building **Spring Boot REST APIs**
+- 🔐 Learning **JWT, Security & Backend Architecture**
+- 🧪 Strengthening **API, Functional & Regression Testing**
+- 🤖 Exploring **Computer Vision & practical AI**
+
+---
+
+## 🧰 LOADOUT
+
+### ⚔️ MAIN WEAPONS — PROGRAMMING
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🏰 BACKEND / WEB
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 💾 INVENTORY — DATABASE & TOOLS
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🤖 SPECIAL ABILITIES — AI / VISION
+
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
+
+---
+
+# 🏆 QUEST LOG — PROJECTS
+
+### ⚔️ CODEARENA
+**Competitive Coding Platform + AI**
+
+`JWT AUTH` `LIVE JUDGE` `AI HINTS` `LEADERBOARDS` `ANALYTICS`
+
+Built with Python, Flask, MySQL, JavaScript, REST APIs and Groq LLM.
+
+**🎮 [ENTER CODEARENA](https://github.com/srivanth1210/CodeArena)**
+
+---
+
+### 🤖 ML BRIGHTNESS CONTROLLER
+**Hand Gesture → Screen Control**
+
+`PYTHON` `OPENCV` `MEDIAPIPE`
+
+Real-time computer vision project that converts hand gestures into system actions.
+
+**🎮 [ENTER PROJECT](https://github.com/srivanth1210/ML-brightness-controller)**
+
+---
+
+### 🧠 CODING AGENT RL EVALUATION PLATFORM
+**Exploring Coding-Agent Evaluation**
+
+A project focused on evaluating coding agents and reinforcement-learning workflows.
+
+**🎮 [ENTER PROJECT](https://github.com/srivanth1210/Coding-Agent-RL-Evaluation-Platform)**
+
+---
+
+## 🧪 QA SKILL TREE
+
+```text
+                    QUALITY ENGINEERING
+                           │
+          ┌────────────────┼────────────────┐
+          ↓                ↓                ↓
+      FUNCTIONAL          API            REGRESSION
+          │                │                │
+          ↓                ↓                ↓
+       UAT / UI        POSTMAN         EDGE CASES
+          │                │                │
+          └────────────────┼────────────────┘
+                           ↓
+                      BUG HUNTING 🐛
+```
+
+**Find the bug before the user finds it.**
+
+---
+
+## 📈 LEVEL-UP ROADMAP
+
+```text
+JAVA
+ ├── DSA                 █████████░ 90%
+ ├── Collections         ████████░░ 80%
+ └── Problem Solving    ████████░░ 80%
+
+SPRING BOOT
+ ├── REST APIs           ███████░░░ 70%
+ ├── Security / JWT      ██████░░░░ 60%
+ └── Architecture        █████░░░░░ 50%
 
 QA
-  ├── API Testing
-  ├── Automation mindset
-  └── Quality Engineering
-
-AI / ML
-  ├── Computer Vision
-  └── Practical AI systems
+ ├── Manual Testing      █████████░ 90%
+ ├── API Testing         ████████░░ 80%
+ └── Automation Mindset  ██████░░░░ 60%
 ```
+
+---
+
+## 📊 PLAYER STATS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=srivanth1210&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivanth1210&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=srivanth1210&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
+## 🎮 GAME OVER? NEVER.
+
 ### ⚡ BUILD IT.
-### 🧪 BREAK IT.
+### 🧪 TEST IT.
+### 🐛 BREAK IT.
 ### 🔧 FIX IT.
-### 🚀 SHIP IT.
+### 🚀 LEVEL UP.
 
-<br>
-
-**Let's build something useful.**
+**NEXT QUEST: BUILD SOMETHING EPIC.**
 
 </div>
