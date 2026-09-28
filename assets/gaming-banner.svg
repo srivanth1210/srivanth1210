@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080b18"/><stop offset=".55" stop-color="#111a3a"/><stop offset="1" stop-color="#090d20"/></linearGradient><linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00f5ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#26345f" stroke-width="1" opacity=".55"/></pattern></defs><rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/><path d="M0 285 L120 250 L210 270 L330 190 L450 220 L560 130 L680 170 L800 90 L930 145 L1040 55 L1200 100" fill="none" stroke="url(#neon)" stroke-width="3" opacity=".8" filter="url(#glow)"/><rect x="35" y="35" width="1130" height="290" rx="16" fill="none" stroke="url(#neon)" stroke-width="2"/><text x="70" y="95" fill="#00f5ff" font-family="monospace" font-size="20" font-weight="bold" letter-spacing="5">PLAYER 01 // DEVELOPER MODE</text><text x="70" y="165" fill="white" font-family="sans-serif" font-size="58" font-weight="900">SRIVANTH S</text><text x="74" y="205" fill="#c7d2fe" font-family="monospace" font-size="20">JAVA DEVELOPER • QA ENGINEER • AI/ML BUILDER</text><rect x="72" y="240" width="440" height="18" rx="9" fill="#18223f"/><rect x="72" y="240" width="365" height="18" rx="9" fill="url(#neon)"/><text x="530" y="255" fill="#fff" font-family="monospace" font-size="16">XP 8300 / 10000</text><text x="1030" y="90" fill="#ff2bd6" font-family="monospace" font-size="18" font-weight="bold">LVL 20</text><text x="1030" y="120" fill="#8b5cf6" font-family="monospace" font-size="15">READY</text><circle cx="1070" cy="190" r="45" fill="#0b1027" stroke="#00f5ff" stroke-width="3"/><path d="M1048 190 L1064 174 L1092 190 L1064 206 Z" fill="#00f5ff" filter="url(#glow)"/><text x="70" y="295" fill="#94a3b8" font-family="monospace" font-size="15">BUILD → TEST → DEBUG → LEVEL UP</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 0 1400 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03070d"/><stop offset=".62" stop-color="#07101a"/><stop offset="1" stop-color="#160709"/></linearGradient>
+  <linearGradient id="red" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff3845"/><stop offset="1" stop-color="#b90f1c"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="hex" width="72" height="62" patternUnits="userSpaceOnUse"><path d="M18 2L52 2L69 31L52 60L18 60L1 31Z" fill="none" stroke="#65151b" stroke-width="2" opacity=".42"/></pattern>
+</defs>
+<rect width="1400" height="340" rx="14" fill="url(#bg)"/>
+<rect x="790" width="610" height="340" fill="url(#hex)" opacity=".75"/>
+<path d="M0 275L180 205L280 250L430 155L550 210L680 105L800 170L960 70L1110 130L1270 35L1400 80" fill="none" stroke="#4b0b12" stroke-width="12" opacity=".5"/>
+<path d="M0 286L190 216L290 260L440 165L560 220L690 115L810 180L970 80L1120 140L1280 45L1400 90" fill="none" stroke="url(#red)" stroke-width="3" filter="url(#glow)"/>
+<path d="M1080 0L1035 70L1085 54L1055 118L1125 38L1090 51Z" fill="#ff2635" filter="url(#glow)"/>
+<path d="M1240 0L1190 65L1235 48L1205 105L1275 25L1245 42Z" fill="#ff2635"/>
+<text x="70" y="82" fill="#b8c0ca" font-family="monospace" font-size="20" letter-spacing="5">BUILD   ›   TEST   ›   BREAK   ›   FIX   ›   SHIP</text>
+<text x="70" y="165" fill="#f2f4f7" font-family="Arial, sans-serif" font-size="70" font-weight="900" font-style="italic">SRI</text>
+<text x="210" y="165" fill="#ed1c2e" font-family="Arial, sans-serif" font-size="70" font-weight="900" font-style="italic">VANTH</text>
+<text x="70" y="210" fill="#9ba6b2" font-family="monospace" font-size="18" letter-spacing="4">QA  |  DEVELOPER  |  AI ENTHUSIAST</text>
+<g transform="translate(1020 115) rotate(-10)">
+<rect x="0" y="20" width="260" height="115" rx="45" fill="#b91f2a" stroke="#ff4a50" stroke-width="5"/>
+<rect x="42" y="48" width="65" height="20" rx="7" fill="#1a2028"/><rect x="65" y="26" width="20" height="65" rx="7" fill="#1a2028"/>
+<circle cx="188" cy="55" r="15" fill="#f2f2f2" stroke="#20242a" stroke-width="4"/><circle cx="222" cy="76" r="15" fill="#f2f2f2" stroke="#20242a" stroke-width="4"/><circle cx="205" cy="100" r="15" fill="#f2f2f2" stroke="#20242a" stroke-width="4"/>
+<circle cx="172" cy="105" r="8" fill="#222"/><circle cx="151" cy="84" r="8" fill="#222"/>
+</g>
+<text x="70" y="292" fill="#727d89" font-family="monospace" font-size="15">BUILD → TEST → DEBUG → LEVEL UP</text>
+<rect x="35" y="22" width="1330" height="296" rx="12" fill="none" stroke="#252d37" stroke-width="2"/>
+</svg>
