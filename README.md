@@ -96,7 +96,7 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" cellpadding="12">
 <tr>
 <td width="56%" valign="top">
 
@@ -105,36 +105,27 @@
 
 ### 🔴 JAVA
 
-**DSA**  
-**<span style="color:#e63946">█████████░</span>** 90%
-
-**Collections**  
-**<span style="color:#e63946">████████░░</span>** 80%
-
-**Problem Solving**  
-**<span style="color:#e63946">████████░░</span>** 80%
+| Skill | Progress | |
+|---|---|---:|
+| DSA | 🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛ | **90%** |
+| Collections | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | **80%** |
+| Problem Solving | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | **80%** |
 
 ### 🔴 SPRING BOOT
 
-**REST APIs**  
-**<span style="color:#e63946">███████░░░</span>** 70%
-
-**Security / JWT**  
-**<span style="color:#e63946">██████░░░░</span>** 60%
-
-**Architecture**  
-**<span style="color:#e63946">█████░░░░░</span>** 50%
+| Skill | Progress | |
+|---|---|---:|
+| REST APIs | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ | **70%** |
+| Security / JWT | 🟥🟥🟥🟥🟥🟥⬛⬛⬛⬛ | **60%** |
+| Architecture | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ | **50%** |
 
 ### 🔴 QA
 
-**Manual Testing**  
-**<span style="color:#e63946">█████████░</span>** 90%
-
-**API Testing**  
-**<span style="color:#e63946">████████░░</span>** 80%
-
-**Automation Mindset**  
-**<span style="color:#e63946">██████░░░░</span>** 60%
+| Skill | Progress | |
+|---|---|---:|
+| Manual Testing | 🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛ | **90%** |
+| API Testing | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | **80%** |
+| Automation Mindset | 🟥🟥🟥🟥🟥🟥⬛⬛⬛⬛ | **60%** |
 
 </td>
 
@@ -143,27 +134,12 @@
 ## ⚡ &nbsp; WHAT I DO
 <sub><i>More than just coding</i></sub>
 
-### 🧩 Build
-
-**Develop real-world projects with clean and scalable code.**
-
----
-
-### 🔎 Test
-
-**Ensure quality with manual, functional and API testing.**
-
----
-
-### 💡 Explore
-
-**Work on AI/ML and solve real-world problems.**
-
----
-
-### 📖 Learn
-
-**Always stay curious to learn and improve.**
+| | Focus |
+|---|---|
+| 🧩 | **Build**<br>Develop real-world projects with clean and scalable code. |
+| 🔎 | **Test**<br>Ensure quality with manual, functional and API testing. |
+| 💡 | **Explore**<br>Work on AI/ML and solve real-world problems. |
+| 📖 | **Learn**<br>Always stay curious to learn and improve. |
 
 </td>
 </tr>
@@ -171,23 +147,19 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" cellpadding="12">
 <tr>
-<td>
+<td colspan="3">
 
 ## 🚀 &nbsp; FEATURED PROJECTS
 <sub><i>Some of the things I've built</i></sub>
 
 </td>
 </tr>
-</table>
-
-<table width="100%">
 <tr>
 <td width="33.33%" valign="top">
 
 ### 🏆 CodeArena
-
 **Competitive Coding Platform**
 
 Built a full-stack competitive coding platform with JWT auth, teacher & student dashboards, live code judge, AI hints, MCQ engine, XP system and analytics.
@@ -202,10 +174,9 @@ Built a full-stack competitive coding platform with JWT auth, teacher & student 
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🎁 Incentive & Gift Card Platform
-
 **QA Testing | Web, Android, iOS**
 
 Performed end-to-end manual testing including functional, regression and API testing for registration, wallet and redemption workflows. Supported UAT and production.
@@ -216,10 +187,9 @@ Performed end-to-end manual testing including functional, regression and API tes
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🧠 ML Brightness Controller
-
 **AI / ML Project**
 
 Real-time screen brightness controller using hand-gesture recognition with OpenCV and MediaPipe.
@@ -235,7 +205,6 @@ Real-time screen brightness controller using hand-gesture recognition with OpenC
 </td>
 </tr>
 </table>
-
 <br>
 
 <table width="100%">
