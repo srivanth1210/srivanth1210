@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/gaming-banner.svg" width="100%" alt="SRIVANTH gaming developer banner"/>
+<img src="./assets/gaming-banner-v2.svg" width="100%" alt="SRIVANTH gaming developer banner"/>
 
 </div>
 
