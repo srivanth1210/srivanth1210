@@ -3,7 +3,7 @@
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03080e"/><stop offset=".58" stop-color="#07111a"/><stop offset="1" stop-color="#18080b"/></linearGradient>
 <pattern id="hex" width="72" height="62" patternUnits="userSpaceOnUse"><path d="M18 2L52 2L69 31L52 60L18 60L1 31Z" fill="none" stroke="#7c1e25" stroke-width="2" opacity=".36"/></pattern>
 </defs>
-<rect width="1400" height="360" rx="14" fill="url(#bg)"/>
+<rect width="1400" height="360" fill="url(#bg)"/>
 <rect x="820" y="0" width="580" height="360" fill="url(#hex)"/>
 <path d="M1090 0L1040 72L1088 56L1058 122L1130 35L1095 48Z" fill="#f02a38"/>
 <path d="M1255 0L1204 72L1252 54L1220 119L1294 31L1258 45Z" fill="#f02a38"/>
