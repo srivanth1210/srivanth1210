@@ -106,35 +106,35 @@
 ### 🔴 JAVA
 
 **DSA**  
-<code>█████████░</code> 90%
+**<span style="color:#e63946">█████████░</span>** 90%
 
 **Collections**  
-<code>████████░░</code> 80%
+**<span style="color:#e63946">████████░░</span>** 80%
 
 **Problem Solving**  
-<code>████████░░</code> 80%
+**<span style="color:#e63946">████████░░</span>** 80%
 
 ### 🔴 SPRING BOOT
 
 **REST APIs**  
-<code>███████░░░</code> 70%
+**<span style="color:#e63946">███████░░░</span>** 70%
 
 **Security / JWT**  
-<code>██████░░░░</code> 60%
+**<span style="color:#e63946">██████░░░░</span>** 60%
 
 **Architecture**  
-<code>█████░░░░░</code> 50%
+**<span style="color:#e63946">█████░░░░░</span>** 50%
 
 ### 🔴 QA
 
 **Manual Testing**  
-<code>█████████░</code> 90%
+**<span style="color:#e63946">█████████░</span>** 90%
 
 **API Testing**  
-<code>████████░░</code> 80%
+**<span style="color:#e63946">████████░░</span>** 80%
 
 **Automation Mindset**  
-<code>██████░░░░</code> 60%
+**<span style="color:#e63946">██████░░░░</span>** 60%
 
 </td>
 
@@ -184,7 +184,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🏆 CodeArena
 
