@@ -70,5 +70,5 @@
 <text x="91" y="1478" class="t b" font-size="20">LET'S CONNECT</text><text x="91" y="1498" class="m s">Open to opportunities, collaborations and interesting projects.</text>
 <rect x="676" y="1457" width="103" height="38" rx="6" fill="#0a78bd"/><text x="728" y="1481" text-anchor="middle" fill="#fff" font-size="13" class="b">in  LinkedIn</text>
 <rect x="790" y="1457" width="92" height="38" rx="6" fill="#e83445"/><text x="836" y="1481" text-anchor="middle" fill="#fff" font-size="13" class="b">✉ Email</text>
-<rect x="893" y="1457" width="86" height="38" rx="6" fill="#111a23" stroke="#2a3742"/><text x="936" y="1481" text-anchor="middle" class="t" font-size="13" class="b">GitHub</text>
+<rect x="893" y="1457" width="86" height="38" rx="6" fill="#111a23" stroke="#2a3742"/><text x="936" y="1481" text-anchor="middle" class="t b" font-size="13">GitHub</text>
 </svg>
