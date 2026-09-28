@@ -1,49 +1,29 @@
 <div align="center">
 
-<img src="./assets/gaming-banner.svg" width="100%" alt="Srivanth gaming tech banner"/>
-
-<br>
-
-# ⚡ SRIVANTH
-
-### `QA ENGINEER` • `JAVA DEVELOPER` • `AI/ML ENTHUSIAST`
-
-`BUILD` ▸ `TEST` ▸ `BREAK` ▸ `FIX` ▸ `SHIP`
+<img src="./assets/gaming-banner.svg" width="100%" alt="SRIVANTH gaming developer banner"/>
 
 </div>
 
----
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="15%" align="center" valign="middle">
 
-## 🟥 PROFILE
-
-**QA Engineer • Java Developer • AI/ML Enthusiast**
-
-I build backend applications with Java and Spring Boot, test real-world web/API flows, hunt bugs, and explore practical AI/ML systems.
-
-> **Find the bug before the user finds it.**
+<img src="https://github.com/srivanth1210.png?size=180" width="120" alt="Srivanth"/>
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="middle">
 
-## 🎮 CURRENT MODE
+# Srivanth S
 
-```text
-JAVA / DSA       █████████░  90%
-SPRING BOOT      ███████░░░  70%
-QA / TESTING     ████████░░  80%
-AI / ML          ██████░░░░  60%
-```
+### QA Engineer | Java Developer | AI/ML Enthusiast
 
-**MISSION**
+📍 Perambalur, Tamil Nadu &nbsp;&nbsp; ✉️ srivanthsekar11@gmail.com  
+📞 9345378806 &nbsp;&nbsp; 🔗 [linkedin.com/in/srivanth-sekar12](https://linkedin.com/in/srivanth-sekar12)
 
-→ Build stronger backend skills  
-→ Improve problem solving  
-→ Engineer better software quality  
-→ Build practical AI systems
+</td>
+<td width="25%" align="center" valign="middle">
+
+> **“Find the bug<br/>before the user<br/>finds it.”**
 
 </td>
 </tr>
@@ -51,88 +31,66 @@ AI / ML          ██████░░░░  60%
 
 ---
 
-<div align="center">
-
-## ⚙️ TECH STACK
-
-</div>
+## 🟥 TECH STACK
 
 <table>
 <tr>
-<td width="18%"><b>LANGUAGES</b></td>
-<td>☕ Java &nbsp; • &nbsp; 🐍 Python &nbsp; • &nbsp; ⚡ JavaScript</td>
-</tr>
-<tr>
-<td><b>BACKEND</b></td>
-<td>🍃 Spring Boot &nbsp; • &nbsp; 🔗 REST API &nbsp; • &nbsp; 🔐 JWT &nbsp; • &nbsp; JPA / Hibernate</td>
-</tr>
-<tr>
-<td><b>FRONTEND</b></td>
-<td>🌐 HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript</td>
-</tr>
-<tr>
-<td><b>DATABASE</b></td>
-<td>🗄️ MySQL &nbsp; • &nbsp; PostgreSQL</td>
-</tr>
-<tr>
-<td><b>QA & TESTING</b></td>
-<td>🧪 Manual Testing &nbsp; • &nbsp; API Testing &nbsp; • &nbsp; Postman &nbsp; • &nbsp; Regression</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>👁️ Computer Vision &nbsp; • &nbsp; OpenCV &nbsp; • &nbsp; MediaPipe &nbsp; • &nbsp; ML</td>
-</tr>
-<tr>
-<td><b>TOOLS</b></td>
-<td>🐙 Git &nbsp; • &nbsp; GitHub &nbsp; • &nbsp; Jenkins</td>
-</tr>
-</table>
+<td width="18%"><b>▣ Languages</b></td>
+<td>
 
----
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
-<div align="center">
-
-## 🆙 LEVEL-UP ROADMAP
-
-</div>
-
-### ☕ JAVA
-`██████████████████░░` **90%**
-
-### 🍃 SPRING BOOT
-`██████████████░░░░░░` **70%**
-
-### 🧪 QA / TESTING
-`████████████████░░░░` **80%**
-
-### 🤖 AI / ML
-`████████████░░░░░░░░` **60%**
+![Java](https://img.shields.io/badge/Java-111820?style=for-the-badge&logo=openjdk&logoColor=ff3b46)
+![Python](https://img.shields.io/badge/Python-111820?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111820?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </td>
+</tr>
+<tr>
+<td><b>▣ Backend</b></td>
+<td>
 
-<td width="48%" valign="top">
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111820?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![REST API](https://img.shields.io/badge/REST_API-111820?style=for-the-badge&logoColor=9aa5b1)
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td><b>▣ Frontend</b></td>
+<td>
 
-## 🎮 WHAT I DO
+![React](https://img.shields.io/badge/React-111820?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-111820?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111820?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-</div>
+</td>
+</tr>
+<tr>
+<td><b>▣ Database</b></td>
+<td>
 
-### 🛠️ BUILD
-Java, Spring Boot and REST API applications.
+![MySQL](https://img.shields.io/badge/MySQL-111820?style=for-the-badge&logo=mysql&logoColor=00A4CC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111820?style=for-the-badge&logo=postgresql&logoColor=336791)
 
-### 🧪 TEST
-Functional, API, regression and edge-case testing.
+</td>
+</tr>
+<tr>
+<td><b>▣ QA & Testing</b></td>
+<td>
 
-### 🐛 BREAK
-Reproduce bugs and find unexpected behavior.
+![Postman](https://img.shields.io/badge/Postman-111820?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-111820?style=for-the-badge&logo=checkmarx&logoColor=ff3b46)
+![API Testing](https://img.shields.io/badge/API_Testing-111820?style=for-the-badge&logo=swagger&logoColor=85EA2D)
+![Jenkins](https://img.shields.io/badge/Jenkins-111820?style=for-the-badge&logo=jenkins&logoColor=D24939)
+![Agile / Scrum](https://img.shields.io/badge/Agile_/_Scrum-111820?style=for-the-badge&logo=scrumalliance&logoColor=9aa5b1)
 
-### 🤖 EXPLORE
-Computer vision and practical AI/ML systems.
+</td>
+</tr>
+<tr>
+<td><b>▣ AI / ML</b></td>
+<td>
+
+![OpenCV](https://img.shields.io/badge/OpenCV-111820?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-111820?style=for-the-badge&logo=google&logoColor=00BFA5)
+![Groq LLM](https://img.shields.io/badge/Groq_LLM-111820?style=for-the-badge&logo=groq&logoColor=FF4B4B)
 
 </td>
 </tr>
@@ -140,61 +98,95 @@ Computer vision and practical AI/ML systems.
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 📊 LEVEL-UP ROADMAP
+
+**🔴 JAVA**
+
+| Skill | Progress |
+|---|---:|
+| DSA | `█████████░` 90% |
+| Collections | `████████░░` 80% |
+| Problem Solving | `████████░░` 80% |
+
+**🔴 SPRING BOOT**
+
+| Skill | Progress |
+|---|---:|
+| REST APIs | `███████░░░` 70% |
+| Security / JWT | `██████░░░░` 60% |
+| Architecture | `█████░░░░░` 50% |
+
+**🔴 QA**
+
+| Skill | Progress |
+|---|---:|
+| Manual Testing | `█████████░` 90% |
+| API Testing | `████████░░` 80% |
+| Automation Mindset | `██████░░░░` 60% |
+
+</td>
+<td width="45%" valign="top">
+
+## ⚡ WHAT I DO
+
+### 🧩 Build
+Develop real-world projects with clean and scalable code.
+
+### 🔎 Test
+Ensure quality with manual, functional and API testing.
+
+### 💡 Explore
+Work on AI/ML and solve real-world problems.
+
+### 📖 Learn
+Always stay curious, experiment and improve.
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🚀 FEATURED PROJECTS
 
-</div>
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ⚔️ CodeArena
-**Competitive Coding Platform + AI**
+### 🏆 CodeArena
+**Competitive Coding Platform**
 
-Coding platform with authentication, judging, AI-assisted features, leaderboards and analytics.
+Built a full-stack competitive coding platform with JWT auth, teacher & student dashboards, live code judge, AI hints, MCQ engine, XP system and analytics.
 
-`Python` `MySQL` `JavaScript` `REST API`
+`Python` `MySQL` `JavaScript`
 
-**[→ VIEW PROJECT](https://github.com/srivanth1210/CodeArena)**
+**[↗ View Project](https://github.com/srivanth1210/CodeArena)**
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🤖 ML Brightness Controller
-**Hand Gesture → Screen Control**
+### 🎁 Incentive & Gift Card Platform
+**QA Testing | Web, Android, iOS**
 
-Real-time computer vision project using hand gestures to control system actions.
+Performed end-to-end manual testing including functional, regression and API testing for registration, wallet and redemption workflows. Supported UAT and production.
+
+`Postman` `QA` `Mobile`
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 ML Brightness Controller
+**AI / ML Project**
+
+Real-time screen brightness controller using hand-gesture recognition with OpenCV and MediaPipe.
 
 `Python` `OpenCV` `MediaPipe`
 
-**[→ VIEW PROJECT](https://github.com/srivanth1210/ML-brightness-controller)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Coding Agent RL Evaluation Platform
-**Coding-Agent Evaluation**
-
-Project exploring evaluation workflows for coding agents and reinforcement-learning systems.
-
-`AI` `Evaluation` `GitHub`
-
-**[→ VIEW PROJECT](https://github.com/srivanth1210/Coding-Agent-RL-Evaluation-Platform)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Backend Academy
-**Spring Boot Authentication**
-
-Authentication-focused backend work covering registration, login, JWT, refresh tokens, Spring Security and REST endpoints.
-
-`Java` `Spring Boot` `JWT` `JPA`
+**[↗ View Project](https://github.com/srivanth1210/ML-brightness-controller)**
 
 </td>
 </tr>
@@ -202,52 +194,27 @@ Authentication-focused backend work covering registration, login, JWT, refresh t
 
 ---
 
-<div align="center">
-
-## 🧪 QA MINDSET
-
-```text
-        REQUIREMENT
-             ↓
-          TEST IT
-             ↓
-        BREAK IT 🐛
-             ↓
-       REPRODUCE IT
-             ↓
-          FIX IT
-             ↓
-        RETEST IT
-             ↓
-          SHIP 🚀
-```
-
-</div>
-
----
-
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 ## 📡 LET'S CONNECT
 
-<a href="https://github.com/srivanth1210">
-<img src="https://img.shields.io/badge/GitHub-srivanth1210-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/srivanth-sekar12">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:srivanthsekar11@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Open to opportunities, collaborations and interesting projects.**
 
-<br><br>
+</td>
+<td width="40%" align="right" valign="middle">
 
-```text
-╔══════════════════════════════════════════════╗
-║  CODE → TEST → BREAK → FIX → SHIP → REPEAT ║
-╚══════════════════════════════════════════════╝
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srivanth-sekar12)
+[![Email](https://img.shields.io/badge/Email-EA3340?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivanthsekar11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111820?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srivanth1210)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**CODE → TEST → BREAK → FIX → SHIP**
 
 </div>
