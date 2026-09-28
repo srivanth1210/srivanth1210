@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="./assets/gaming-banner-v2.svg" width="100%" alt="SRIVANTH gaming developer banner"/>
+<img src="./assets/gaming-banner-v2.svg" width="100%" alt="SRIVANTH gaming banner"/>
 
 </div>
 
 <br>
 
-<table width="100%">
+<table width="100%" cellpadding="10">
 <tr>
-<td width="16%" align="center" valign="middle">
+<td width="15%" align="center" valign="middle">
 <img src="https://github.com/srivanth1210.png?size=180" width="115" alt="Srivanth S"/>
 </td>
-<td width="59%" valign="middle">
+<td width="60%" valign="middle">
 
 # Srivanth S
 
-### QA Engineer | Java Developer | AI/ML Enthusiast
+**QA Engineer | Java Developer | AI/ML Enthusiast**
 
-📍 Perambalur, Tamil Nadu &nbsp;&nbsp; ✉️ [srivanthsekar11@gmail.com](mailto:srivanthsekar11@gmail.com)  
-📞 9345378806 &nbsp;&nbsp; 🔗 [linkedin.com/in/srivanth-sekar12](https://linkedin.com/in/srivanth-sekar12)
+📍 Perambalur, Tamil Nadu &nbsp;&nbsp;&nbsp; ✉️ [srivanthsekar11@gmail.com](mailto:srivanthsekar11@gmail.com)  
+📞 9345378806 &nbsp;&nbsp;&nbsp; 🔗 [linkedin.com/in/srivanth-sekar12](https://linkedin.com/in/srivanth-sekar12)
 
 </td>
 <td width="25%" align="center" valign="middle">
@@ -33,17 +33,17 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" cellpadding="10">
 <tr>
 <td colspan="2">
 
-## 🟥 &nbsp; TECH STACK
+# 🟥 &nbsp; TECH STACK
 <sub><i>Technologies I work with</i></sub>
 
 </td>
 </tr>
 <tr>
-<td width="20%"><b>▣ &nbsp; Languages</b></td>
+<td width="18%"><b>▣ &nbsp; Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/Java-111820?style=for-the-badge&logo=openjdk&logoColor=ff3b46"/>
 <img src="https://img.shields.io/badge/Python-111820?style=for-the-badge&logo=python&logoColor=3776AB"/>
@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Manual_Testing-111820?style=for-the-badge&logo=checkmarx&logoColor=ff3b46"/>
 <img src="https://img.shields.io/badge/API_Testing-111820?style=for-the-badge&logo=swagger&logoColor=85EA2D"/>
 <img src="https://img.shields.io/badge/Jenkins-111820?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
-<img src="https://img.shields.io/badge/Agile_/_Scrum-111820?style=for-the-badge&logo=scrumalliance&logoColor=9aa5b1"/>
+<img src="https://img.shields.io/badge/Agile_%2F_Scrum-111820?style=for-the-badge&logo=scrumalliance&logoColor=9aa5b1"/>
 </td>
 </tr>
 <tr>
@@ -96,70 +96,34 @@
 
 <br>
 
-<table width="100%" cellpadding="12">
+<table width="100%" cellpadding="0">
 <tr>
-<td width="56%" valign="top">
-
-## 📊 &nbsp; LEVEL-UP ROADMAP
-<sub><i>Current Focus & Progress</i></sub>
-
-### 🔴 JAVA
-
-| Skill | Progress | |
-|---|---|---:|
-| DSA | 🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛ | **90%** |
-| Collections | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | **80%** |
-| Problem Solving | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | **80%** |
-
-### 🔴 SPRING BOOT
-
-| Skill | Progress | |
-|---|---|---:|
-| REST APIs | 🟥🟥🟥🟥🟥🟥🟥⬛⬛⬛ | **70%** |
-| Security / JWT | 🟥🟥🟥🟥🟥🟥⬛⬛⬛⬛ | **60%** |
-| Architecture | 🟥🟥🟥🟥🟥⬛⬛⬛⬛⬛ | **50%** |
-
-### 🔴 QA
-
-| Skill | Progress | |
-|---|---|---:|
-| Manual Testing | 🟥🟥🟥🟥🟥🟥🟥🟥🟥⬛ | **90%** |
-| API Testing | 🟥🟥🟥🟥🟥🟥🟥🟥⬛⬛ | **80%** |
-| Automation Mindset | 🟥🟥🟥🟥🟥🟥⬛⬛⬛⬛ | **60%** |
-
+<td width="57%" valign="top">
+<img src="./assets/roadmap-panel.svg" width="100%" alt="Level-Up Roadmap"/>
 </td>
-
-<td width="44%" valign="top">
-
-## ⚡ &nbsp; WHAT I DO
-<sub><i>More than just coding</i></sub>
-
-| | Focus |
-|---|---|
-| 🧩 | **Build**<br>Develop real-world projects with clean and scalable code. |
-| 🔎 | **Test**<br>Ensure quality with manual, functional and API testing. |
-| 💡 | **Explore**<br>Work on AI/ML and solve real-world problems. |
-| 📖 | **Learn**<br>Always stay curious to learn and improve. |
-
+<td width="43%" valign="top">
+<img src="./assets/whatido-panel.svg" width="100%" alt="What I Do"/>
 </td>
 </tr>
 </table>
 
 <br>
 
-<table width="100%" cellpadding="12">
+<table width="100%" cellpadding="10">
 <tr>
 <td colspan="3">
 
-## 🚀 &nbsp; FEATURED PROJECTS
+# 🚀 &nbsp; FEATURED PROJECTS
 <sub><i>Some of the things I've built</i></sub>
 
 </td>
 </tr>
 <tr>
+
 <td width="33.33%" valign="top">
 
-### 🏆 CodeArena
+### 🏆 &nbsp; CodeArena
+
 **Competitive Coding Platform**
 
 Built a full-stack competitive coding platform with JWT auth, teacher & student dashboards, live code judge, AI hints, MCQ engine, XP system and analytics.
@@ -176,7 +140,8 @@ Built a full-stack competitive coding platform with JWT auth, teacher & student 
 
 <td width="33.33%" valign="top">
 
-### 🎁 Incentive & Gift Card Platform
+### 🎁 &nbsp; Incentive & Gift Card Platform
+
 **QA Testing | Web, Android, iOS**
 
 Performed end-to-end manual testing including functional, regression and API testing for registration, wallet and redemption workflows. Supported UAT and production.
@@ -189,7 +154,8 @@ Performed end-to-end manual testing including functional, regression and API tes
 
 <td width="33.33%" valign="top">
 
-### 🧠 ML Brightness Controller
+### 🧠 &nbsp; ML Brightness Controller
+
 **AI / ML Project**
 
 Real-time screen brightness controller using hand-gesture recognition with OpenCV and MediaPipe.
@@ -203,16 +169,17 @@ Real-time screen brightness controller using hand-gesture recognition with OpenC
 **[↗ VIEW PROJECT](https://github.com/srivanth1210/ML-brightness-controller)**
 
 </td>
+
 </tr>
 </table>
+
 <br>
 
-<table width="100%">
+<table width="100%" cellpadding="10">
 <tr>
 <td width="58%" valign="middle">
 
-## 📡 &nbsp; LET'S CONNECT
-
+# 📡 &nbsp; LET'S CONNECT
 **Open to opportunities, collaborations and interesting projects.**
 
 </td>
@@ -227,9 +194,6 @@ Real-time screen brightness controller using hand-gesture recognition with OpenC
 </table>
 
 <div align="center">
-
 <br>
-
 **CODE → TEST → BREAK → FIX → SHIP**
-
 </div>
