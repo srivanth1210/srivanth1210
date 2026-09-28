@@ -7,7 +7,7 @@ I build software with a focus on **backend development, problem solving, softwar
 📍 Tamil Nadu, India  
 💻 Software Development & Backend Engineering  
 🧪 Quality Assurance & API Testing  
-🎯 Learning: Java • Spring Boot • DSA • System Design
+🎯 Learning: Java • Spring Boot • DSA
 
 ---
 
@@ -20,7 +20,6 @@ I build software with a focus on **backend development, problem solving, softwar
 
 ### Backend & Web
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,7 +50,7 @@ Manual Testing • Functional Testing • Regression Testing • Sanity Testing 
 ### ⚔️ CodeArena
 **Competitive Coding Platform**
 
-`Python` `Flask` `MySQL` `JavaScript` `REST API` `Groq LLM`
+`Python` `MySQL` `JavaScript` `REST API` `Groq LLM`
 
 - Role-based JWT authentication
 - Teacher & Student dashboards
@@ -74,10 +73,6 @@ Real-time screen brightness control using hand-gesture recognition.
 A project focused on evaluating coding agents and reinforcement-learning workflows.
 
 🔗 [View Repository](https://github.com/srivanth1210/Coding-Agent-RL-Evaluation-Platform)
-
-### 👨‍💼 Portfolio
-
-🔗 [View Repository](https://github.com/srivanth1210/Portfolio)
 
 ---
 
