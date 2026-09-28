@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03080e"/><stop offset=".58" stop-color="#07111a"/><stop offset="1" stop-color="#18080b"/></linearGradient>
+<pattern id="hex" width="72" height="62" patternUnits="userSpaceOnUse"><path d="M18 2L52 2L69 31L52 60L18 60L1 31Z" fill="none" stroke="#7c1e25" stroke-width="2" opacity=".36"/></pattern>
+</defs>
+<rect width="1400" height="360" fill="url(#bg)"/>
+<rect x="820" y="0" width="580" height="360" fill="url(#hex)"/>
+<path d="M1090 0L1040 72L1088 56L1058 122L1130 35L1095 48Z" fill="#f02a38"/>
+<path d="M1255 0L1204 72L1252 54L1220 119L1294 31L1258 45Z" fill="#f02a38"/>
+<text x="70" y="82" fill="#c1cad3" font-family="monospace" font-size="20" letter-spacing="5">BUILD   ›   TEST   ›   BREAK   ›   FIX   ›   SHIP</text>
+<text x="70" y="165" fill="#f4f6f8" font-family="Arial,sans-serif" font-size="72" font-weight="900" font-style="italic">SRI</text>
+<text x="210" y="165" fill="#ed2635" font-family="Arial,sans-serif" font-size="72" font-weight="900" font-style="italic">VANTH</text>
+<text x="70" y="210" fill="#9aa6b2" font-family="monospace" font-size="18" letter-spacing="4">DEVELOPER  |  QA  |  AI ENTHUSIAST</text>
+<text x="70" y="302" fill="#71808d" font-family="monospace" font-size="15">BUILD → TEST → DEBUG → LEVEL UP</text>
+<g transform="translate(1015 118) rotate(-10)">
+<rect x="0" y="20" width="270" height="120" rx="48" fill="#bd1f2c" stroke="#ff3b48" stroke-width="5"/>
+<rect x="42" y="50" width="67" height="21" rx="7" fill="#161c24"/><rect x="65" y="27" width="21" height="67" rx="7" fill="#161c24"/>
+<circle cx="195" cy="56" r="16" fill="#f0f1f2" stroke="#242b33" stroke-width="4"/><circle cx="231" cy="79" r="16" fill="#f0f1f2" stroke="#242b33" stroke-width="4"/><circle cx="213" cy="106" r="16" fill="#f0f1f2" stroke="#242b33" stroke-width="4"/>
+<circle cx="171" cy="108" r="8" fill="#242b33"/><circle cx="148" cy="85" r="8" fill="#242b33"/>
+</g>
+</svg>
