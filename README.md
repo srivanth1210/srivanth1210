@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/gaming-banner.svg" alt="Gaming developer banner" width="100%"/>
+
 # 🎮 SRIVANTH S
 
 ### ⚡ **PLAYER 01 • JAVA DEVELOPER • QA ENGINEER • AI/ML BUILDER**
@@ -31,6 +33,10 @@
 ║ CURRENT QUEST: LEVEL UP BACKEND SKILLS       ║
 ╚══════════════════════════════════════════════╝
 ```
+
+<img src="./assets/skill-tree.svg" alt="Gaming skill tree" width="100%"/>
+
+---
 
 ## 🎯 CURRENT QUEST
 
@@ -88,8 +94,6 @@ Built with Python, Flask, MySQL, JavaScript, REST APIs and Groq LLM.
 
 **🎮 [ENTER CODEARENA](https://github.com/srivanth1210/CodeArena)**
 
----
-
 ### 🤖 ML BRIGHTNESS CONTROLLER
 **Hand Gesture → Screen Control**
 
@@ -98,8 +102,6 @@ Built with Python, Flask, MySQL, JavaScript, REST APIs and Groq LLM.
 Real-time computer vision project that converts hand gestures into system actions.
 
 **🎮 [ENTER PROJECT](https://github.com/srivanth1210/ML-brightness-controller)**
-
----
 
 ### 🧠 CODING AGENT RL EVALUATION PLATFORM
 **Exploring Coding-Agent Evaluation**
@@ -137,7 +139,7 @@ A project focused on evaluating coding agents and reinforcement-learning workflo
 JAVA
  ├── DSA                 █████████░ 90%
  ├── Collections         ████████░░ 80%
- └── Problem Solving    ████████░░ 80%
+ └── Problem Solving     ████████░░ 80%
 
 SPRING BOOT
  ├── REST APIs           ███████░░░ 70%
