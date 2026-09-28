@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="430" viewBox="0 0 560 430">
+<rect width="560" height="430" rx="10" fill="#0b1219" stroke="#27333e"/>
+<text x="28" y="42" fill="#eef2f5" font-family="Arial" font-size="22" font-weight="700">📊  LEVEL-UP ROADMAP</text>
+<text x="28" y="66" fill="#8f9ca8" font-family="Arial" font-size="12" font-style="italic">Current Focus &amp; Progress</text>
+<line x1="28" y1="82" x2="532" y2="82" stroke="#27333e"/>
+<text x="28" y="112" fill="#f04452" font-size="17">●</text><text x="45" y="112" fill="#eef2f5" font-family="Arial" font-size="15" font-weight="700">JAVA</text>
+<text x="52" y="142" fill="#c7d0d8" font-family="Arial" font-size="13">DSA</text><rect x="180" y="130" width="150" height="16" rx="8" fill="#26323d"/><rect x="180" y="130" width="135" height="16" rx="8" fill="#ef3947"/><text x="345" y="143" fill="#eef2f5" font-family="Arial" font-size="13">90%</text>
+<text x="52" y="171" fill="#c7d0d8" font-family="Arial" font-size="13">Collections</text><rect x="180" y="159" width="150" height="16" rx="8" fill="#26323d"/><rect x="180" y="159" width="120" height="16" rx="8" fill="#ef3947"/><text x="345" y="172" fill="#eef2f5" font-family="Arial" font-size="13">80%</text>
+<text x="52" y="200" fill="#c7d0d8" font-family="Arial" font-size="13">Problem Solving</text><rect x="180" y="188" width="150" height="16" rx="8" fill="#26323d"/><rect x="180" y="188" width="120" height="16" rx="8" fill="#ef3947"/><text x="345" y="201" fill="#eef2f5" font-family="Arial" font-size="13">80%</text>
+<line x1="28" y1="218" x2="532" y2="218" stroke="#202b35"/>
+<text x="28" y="247" fill="#f04452" font-size="17">●</text><text x="45" y="247" fill="#eef2f5" font-family="Arial" font-size="15" font-weight="700">SPRING BOOT</text>
+<text x="52" y="277" fill="#c7d0d8" font-family="Arial" font-size="13">REST APIs</text><rect x="180" y="265" width="150" height="16" rx="8" fill="#26323d"/><rect x="180" y="265" width="105" height="16" rx="8" fill="#ef3947"/><text x="345" y="278" fill="#eef2f5" font-family="Arial" font-size="13">70%</text>
+<text x="52" y="306" fill="#c7d0d8" font-family="Arial" font-size="13">Security / JWT</text><rect x="180" y="294" width="150" height="16" rx="8" fill="#26323d"/><rect x="180" y="294" width="90" height="16" rx="8" fill="#ef3947"/><text x="345" y="307" fill="#eef2f5" font-family="Arial" font-size="13">60%</text>
+<text x="52" y="335" fill="#c7d0d8" font-family="Arial" font-size="13">Architecture</text><rect x="180" y="323" width="150" height="16" rx="8" fill="#26323d"/><rect x="180" y="323" width="75" height="16" rx="8" fill="#ef3947"/><text x="345" y="336" fill="#eef2f5" font-family="Arial" font-size="13">50%</text>
+<line x1="28" y1="353" x2="532" y2="353" stroke="#202b35"/>
+<text x="28" y="382" fill="#f04452" font-size="17">●</text><text x="45" y="382" fill="#eef2f5" font-family="Arial" font-size="15" font-weight="700">QA</text>
+<text x="52" y="408" fill="#c7d0d8" font-family="Arial" font-size="13">Manual Testing</text><rect x="180" y="396" width="150" height="16" rx="8" fill="#26323d"/><rect x="180" y="396" width="135" height="16" rx="8" fill="#ef3947"/><text x="345" y="409" fill="#eef2f5" font-family="Arial" font-size="13">90%</text>
+</svg>
