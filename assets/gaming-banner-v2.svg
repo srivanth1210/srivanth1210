@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 0 1400 340">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03070d"/><stop offset=".62" stop-color="#07101a"/><stop offset="1" stop-color="#12080b"/></linearGradient>
+<pattern id="hex" width="72" height="62" patternUnits="userSpaceOnUse"><path d="M18 2L52 2L69 31L52 60L18 60L1 31Z" fill="none" stroke="#5b171d" stroke-width="2" opacity=".28"/></pattern>
+<radialGradient id="glow" cx="78%" cy="18%" r="42%"><stop offset="0" stop-color="#7e1b24" stop-opacity=".25"/><stop offset="1" stop-color="#0b1018" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1400" height="340" rx="14" fill="url(#bg)"/>
+<rect width="1400" height="340" rx="14" fill="url(#glow)"/>
+<rect x="770" y="0" width="630" height="340" fill="url(#hex)"/>
+<path d="M520 0L650 90L570 170L700 245L620 340" fill="none" stroke="#101923" stroke-width="34" opacity=".42"/>
+<path d="M680 0L770 85L710 160L820 235L750 340" fill="none" stroke="#0c151e" stroke-width="22" opacity=".55"/>
+<path d="M1085 0L1040 66L1085 52L1058 108L1125 30L1092 44Z" fill="#d41d2b" opacity=".9"/>
+<path d="M1245 0L1200 66L1245 51L1216 106L1282 28L1250 43Z" fill="#d41d2b" opacity=".9"/>
+<text x="70" y="82" fill="#aab4bf" font-family="monospace" font-size="20" letter-spacing="5">BUILD   ›   TEST   ›   BREAK   ›   FIX   ›   SHIP</text>
+<text x="70" y="165" fill="#f1f3f5" font-family="Arial, sans-serif" font-size="70" font-weight="900" font-style="italic">SRI</text>
+<text x="210" y="165" fill="#df2332" font-family="Arial, sans-serif" font-size="70" font-weight="900" font-style="italic">VANTH</text>
+<text x="70" y="210" fill="#8f9aa6" font-family="monospace" font-size="18" letter-spacing="4">QA  |  DEVELOPER  |  AI ENTHUSIAST</text>
+<text x="70" y="292" fill="#687480" font-family="monospace" font-size="15">BUILD → TEST → DEBUG → LEVEL UP</text>
+<g transform="translate(1020 115) rotate(-10)">
+<rect x="0" y="20" width="260" height="115" rx="45" fill="#b51e2b" stroke="#df3b46" stroke-width="4"/>
+<rect x="42" y="48" width="65" height="20" rx="7" fill="#151b23"/><rect x="65" y="26" width="20" height="65" rx="7" fill="#151b23"/>
+<circle cx="188" cy="55" r="15" fill="#e6e7e8" stroke="#252b32" stroke-width="4"/><circle cx="222" cy="76" r="15" fill="#e6e7e8" stroke="#252b32" stroke-width="4"/><circle cx="205" cy="100" r="15" fill="#e6e7e8" stroke="#252b32" stroke-width="4"/>
+<circle cx="172" cy="105" r="8" fill="#252b32"/><circle cx="151" cy="84" r="8" fill="#252b32"/>
+</g>
+<rect x="35" y="22" width="1330" height="296" rx="12" fill="none" stroke="#252e38" stroke-width="2"/>
+</svg>
