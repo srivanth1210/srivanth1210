@@ -6,36 +6,6 @@
 
 <br>
 
-<table width="100%" border="1" cellpadding="12" cellspacing="0">
-<tr>
-<td width="16%" align="center" valign="middle">
-
-<img src="https://github.com/srivanth1210.png?size=180" width="120" alt="Srivanth S"/>
-
-</td>
-<td width="59%" valign="middle">
-
-# Srivanth S
-
-### QA Engineer | Java Developer | AI/ML Enthusiast
-
-📍 Perambalur, Tamil Nadu &nbsp;&nbsp;&nbsp; ✉️ [srivanthsekar11@gmail.com](mailto:srivanthsekar11@gmail.com)
-
-📞 9345378806 &nbsp;&nbsp;&nbsp; 🔗 [linkedin.com/in/srivanth-sekar12](https://linkedin.com/in/srivanth-sekar12)
-
-</td>
-<td width="25%" align="center" valign="middle">
-
-> **“Find the bug**  
-> **before the user**  
-> **finds it.”**
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <table width="100%" border="1" cellpadding="10" cellspacing="0">
 <tr>
 <td>
