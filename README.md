@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Srivanth
 
-### QA Engineer • Java Developer • AI/ML Enthusiast
+### Java Developer • QA Engineer • AI/ML Enthusiast
 
-I build and test software with a strong focus on **quality, backend development, DSA, and practical AI/ML projects**.
+I build software with a focus on **backend development, problem solving, software quality, and practical AI/ML projects**.
 
 📍 Tamil Nadu, India  
-💼 QA Engineering & Software Development  
+💻 Software Development & Backend Engineering  
+🧪 Quality Assurance & API Testing  
 🎯 Learning: Java • Spring Boot • DSA • System Design
 
 ---
